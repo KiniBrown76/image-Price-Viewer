@@ -23,7 +23,7 @@ Image-Price-Viewer is a web application that displays a list of products fetched
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/KiniBrown76/image-Price-Viewer
 
 2. Navigate to the project directory:
 cd Image-Price-Viewer
@@ -35,6 +35,9 @@ cd Image-Price-Viewer
 npx json-server --watch db.json
 
 5. Open index.html in your web browser to view the application.
+
+## Deploy link
+[https://imge-back-end.vercel.app/products]
 
 # Usage
 ## Viewing Products
