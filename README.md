@@ -37,7 +37,7 @@ npx json-server --watch db.json
 5. Open index.html in your web browser to view the application.
 
 ## Deploy link
-[https://imge-back-end.vercel.app/products]
+[https://image-price-viewer.vercel.app/]
 
 # Usage
 ## Viewing Products
