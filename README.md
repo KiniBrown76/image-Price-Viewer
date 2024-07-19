@@ -23,7 +23,7 @@ Image-Price-Viewer is a web application that displays a list of products fetched
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KiniBrown76/image-Price-Viewer
+   git clone ['https://github.com/KiniBrown76/image-Price-Viewer']
 
 2. Navigate to the project directory:
 cd Image-Price-Viewer
